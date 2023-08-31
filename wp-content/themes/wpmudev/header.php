@@ -46,9 +46,13 @@
 
     <style>
         header {
+            background-image: url(https://tasksheet.tempurl.host/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-d.png);
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-position: center top;
             background-color: #6FABAC;
-            margin-bottom: 360px;
-            height: 220px;
+            margin-bottom: 340px;
+            height: 265px;
             text-decoration: none;
         }
 
@@ -80,13 +84,14 @@
             background-color: #fff;
             gap: 0px !important;
             padding-left: 175px;
-
+            /* margin-bottom: 50px; */
         }
 
         .search {
             display: flex;
             justify-content: center;
             gap: 5px;
+            margin-top: 50px;
         }
 
         input {
