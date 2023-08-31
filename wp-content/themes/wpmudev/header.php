@@ -12,7 +12,6 @@
 </head>
 
 <!-- sample of navbar code with WordPress logo and pages -->
-
 <header>
     <nav>
         <div class="wp">
@@ -84,7 +83,6 @@
             background-color: #fff;
             gap: 0px !important;
             padding-left: 175px;
-            /* margin-bottom: 50px; */
         }
 
         .search {
